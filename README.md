@@ -81,7 +81,7 @@ Flowchart Visualization of Code Working Method
 Run `GUI.py` to open the **Tkinter-based interface**.
 
 ### 6.2 Input Parameters
-- **Mach:** İnlet Mach number  
+- **Mach:** Inlet Mach number  
 - **Theta1:** First ramp angle  
 - **Theta2:** Second ramp incremental angle  
 
@@ -90,7 +90,7 @@ Clicking the “Calculate” button:
 - Intersection points of shock waves are **numerically solved**  
 - Flow properties (Mach, pressure, temperature, density ratios) are calculated for each region  
 - Results are displayed in a table  
-- Graphs (`grafik.png` and `grafik_zoomed.png`) are generated  
+- Graphs (`graph.png` and `graph_zoomed.png`) are generated  
 
 ### 6.4 Graphs
 - **Pressure-Deflection Angle Diagram:** Shows intersection points along with shock and expansion curves  
